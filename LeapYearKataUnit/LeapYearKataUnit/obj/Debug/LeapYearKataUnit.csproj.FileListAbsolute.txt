@@ -1,0 +1,14 @@
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\bin\Debug\LeapYearKataUnit.dll
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\bin\Debug\LeapYearKataUnit.pdb
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\obj\Debug\LeapYearKataUnit.csprojAssemblyReference.cache
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\obj\Debug\LeapYearKataUnit.csproj.CoreCompileInputs.cache
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\obj\Debug\LeapYearKataUnit.csproj.CopyComplete
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\obj\Debug\LeapYearKataUnit.dll
+C:\Users\mayke\source\repos\LeapYearKataUnit\LeapYearKataUnit\obj\Debug\LeapYearKataUnit.pdb
